@@ -370,7 +370,7 @@
   \*-----------------------------------*/
   
   .hero {
-    background-image: url("./images/CAPA.JPG");
+    background-image: url(".CAPA.JPG");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
